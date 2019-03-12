@@ -1,0 +1,82 @@
+Menu
+1. KELAS
+	1.1. Kelas Privat
+	1.2. Kelas Hands On
+	1.3. Kelas Demo
+	1.4. Pembelian Resep
+
+2. Produk
+ISI
+	1. Bluder Susu (kategori : Bluder)
+		variasi : 
+		1. Original/Kosong (8k)
+		2. Homemade Baso Ayam (10k)
+		3. Keju Susu Special (10k)
+		4. Cheddar Cheese Cream (11k)
+		5. Homemade Nanas (10k)
+		6. California Raisin (11k)
+		7. Smoked Beef Cheese Cream (11k)
+		8. Abon Ayam Premium (11k)
+		9. Dark Chocolate Melt (11k)
+		10. Choco Melt Cheese (12k)
+		11. Berry Milky Cheese (11k)
+		12. Choco Milky Cheese (12k)
+	2. Bluder Kasur (75k) (kategori : Bluder)
+	3. Roti Tawar Gandum (kategori : roti tawar)
+		variasi : 
+		1. Original Kotak (28k)
+		2. Original Kuno (32k)
+		3. Cokelat (35k)
+		4. Kismis (35k)
+		5. Cokelat Kismis (38k)
+		6. Keju Earthquake (35k)
+		7. Coklat Keju (38k)
+	4. Roti Tawar Kuno (kategori roti tawar)
+		variasi : 
+		1. Original Kotak (23k)
+		2. Original Kuno (25k)
+		3. Cokelat (28k)
+		4. Kismis (35k)
+		5. Cokelat Kismis (35k)
+		6. Keju Earthquake (35k)
+	5. Roti Gandum (kategori : Produk Lainnya)
+		variasi :
+		1. Smooked Beef & Cheese
+		2. Choco Melt
+	6. Yogurt Fruit Salad (kategori : Produk Lainnya)
+		variasi :
+		1. Ukuran M
+		2. Ukuran L
+	7. Cinnamon Roll (kategori : Produk Lainnya)
+		variasi :
+		1. Original Cheese
+		2. Choco Cheese
+		3. Raisin Cheese
+	8. Golden Nastar (kategori : cookies)
+	9. Signature Kastengel (kategori : cookies)
+	10. Almond Crispy Butter (kategori : cookies)
+	11. Mocca (kategori : cookies)
+	12. Chocolate Button (kategori : cookies)
+	13. Hongkong Almond Cookies (kategori : cookies)
+	14. Japanese Cotton Bread (kategori : Produk Lainnya)
+		variasi :
+		1. Original
+		2. Keju	
+		3. Cokelat
+		4. Smooked Beef
+		5. Raisin
+
+3. Kue Tart
+
+4. Galeri
+	Galeri Produk
+	Galeri Kursus
+
+4. Contact
+	About Us
+	Contact Us
+	Testimonial
+
+5. Promotion
+
+	
